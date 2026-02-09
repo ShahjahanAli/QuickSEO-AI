@@ -1,0 +1,5 @@
+{
+  "name": "QuickSEO Analyzer",
+  "description": "A lightweight, standalone tool for instant website SEO and performance auditing. No external APIs or keys required.",
+  "requestFramePermissions": []
+}
